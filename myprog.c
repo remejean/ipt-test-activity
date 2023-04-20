@@ -4,5 +4,7 @@ int main() {
     printf("Hello, Remejean!");
     printf("Im, Fil");
     printf("Hi jen  I'm Jasmine");
+    printf("Hi, I'm Crits!");
+
     return 0;
 }
